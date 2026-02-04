@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi, I'm Jules 👋
 
-<!--
-**jvillaret/jvillaret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Robotics student at EPFL (Minor in Space Technologies), with a focus on control, autonomy, and robotic systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+
+#### Model Predictive Control for Autonomous Rocket Landing
+- Linear, robust, and nonlinear MPC for a thrust-controlled rocket landing problem  
+- System linearization, constraint tightening, offset-free tracking, and disturbance rejection  
+- Validation through nonlinear simulations and performance analysis  
+🔗 *Repository coming soon*
+
+#### Autonomous Mobile Robot Navigation & Localization
+- End-to-end navigation pipeline: environment modeling, global planning, motion control, and obstacle avoidance  
+- Probabilistic localization using Bayesian filtering  
+- Integrated global and local navigation strategies, validated through live demonstrations  
+🔗 *Repository coming soon*
+
+---
+
+### 🛠️ Technical Interests
+- Model Predictive Control (MPC)
+- Autonomous navigation and localization
+- Robotics systems and simulation
+
+---
+
+### 📫 Contact
+- 📍 Lausanne, Switzerland  
+- ✉️ Jules.villaret@epfl.ch
