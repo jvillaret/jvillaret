@@ -10,7 +10,7 @@ MSc Robotics student at EPFL (Minor in Space Technologies), with a focus on cont
 - Linear, robust, and nonlinear MPC for a thrust-controlled rocket landing problem  
 - System linearization, constraint tightening, offset-free tracking, and disturbance rejection  
 - Validation through nonlinear simulations and performance analysis  
-🔗 *Repository coming soon*
+🔗 Repository: https://github.com/jvillaret/mpc-rocket-landing.git
 
 #### Autonomous Mobile Robot Navigation & Localization
 - Collaborative EPFL robotics project  
