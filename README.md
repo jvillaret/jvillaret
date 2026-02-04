@@ -13,10 +13,21 @@ MSc Robotics student at EPFL (Minor in Space Technologies), with a focus on cont
 🔗 *Repository coming soon*
 
 #### Autonomous Mobile Robot Navigation & Localization
-- End-to-end navigation pipeline: environment modeling, global planning, motion control, and obstacle avoidance  
-- Probabilistic localization using Bayesian filtering  
-- Integrated global and local navigation strategies, validated through live demonstrations  
-🔗 *Repository coming soon*
+- Collaborative EPFL robotics project  
+- Implemented the **global path planning module** from scratch  
+
+**My contributions (path planning):**
+- Designed and implemented a **visibility-graph–based global planner**
+- Implemented polygon inflation for robot clearance handling
+- Developed custom geometric routines:
+  - segment–segment intersection
+  - segment–polygon collision checking
+  - point-in-polygon tests (ray casting)
+- Built a shortest-path solver using **Dijkstra’s algorithm**
+- Integrated planner into the navigation pipeline and added visualization tools for debugging
+
+🔗 Main repository: https://github.com/tkobler/Projet_BMR
+
 
 ---
 
