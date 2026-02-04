@@ -1,10 +1,10 @@
-## Hi, I'm Jules 👋
+## Hi, I'm Jules
 
 MSc Robotics student at EPFL (Minor in Space Technologies), with a focus on control, autonomy, and robotic systems.
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 #### Model Predictive Control for Autonomous Rocket Landing
 - Linear, robust, and nonlinear MPC for a thrust-controlled rocket landing problem  
@@ -20,13 +20,13 @@ MSc Robotics student at EPFL (Minor in Space Technologies), with a focus on cont
 
 ---
 
-### 🛠️ Technical Interests
+### Technical Interests
 - Model Predictive Control (MPC)
 - Autonomous navigation and localization
 - Robotics systems and simulation
 
 ---
 
-### 📫 Contact
-- 📍 Lausanne, Switzerland  
-- ✉️ Jules.villaret@epfl.ch
+### Contact
+- Lausanne, Switzerland  
+- Jules.villaret@epfl.ch
